@@ -2,11 +2,6 @@
   <b>Sam Wang</b>
 </h1>
 
-Heya! I'm Sam Wang, a student who learns programming by building projects,
-from websites to things that run on a Raspberry Pi.
-
-<br>
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
